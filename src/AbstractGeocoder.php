@@ -5,7 +5,7 @@ namespace OpenCage\Geocoder;
 abstract class AbstractGeocoder
 {
     const TIMEOUT = 10;
-    const URL = 'https://api.opencagedata.com/geocode/v1/json/?';
+    const URL = 'https://api.opencagedata.com/geocode/v1/geojson/?';
 
     protected $key;
     protected $timeout;
