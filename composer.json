@@ -1,13 +1,13 @@
 {
-  "name": "opencage/geocode",
+  "name": "christiaanlock/geocode",
   "version": "2.1.0",
   "description": "A PHP library for geocoding via the OpenCage Geocoder API",
   "license": "BSD-2-Clause",
   "authors": [
     {
-      "name": "OpenCage Data Limited",
-      "email": "info@opencagedata.com",
-      "homepage": "https://opencagedata.com"
+      "name": "Christiaan Lock",
+      "email": "hello@christiaan.io",
+      "homepage": "https://christiaan.io"
     }
   ],
   "autoload": {
